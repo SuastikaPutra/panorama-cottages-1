@@ -28,5 +28,8 @@
       "CACHE_DRIVER": "array",
       "VIEW_COMPILED_PATH": "/tmp",
       "APP_STORAGE_PATH": "/tmp/storage"
-    }
+    },
+    "public": true,
+    "buildCommand": "vite build",
+    "outputDirectory": "public"
   }
